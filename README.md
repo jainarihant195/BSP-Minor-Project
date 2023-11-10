@@ -24,5 +24,10 @@ The main goal of this project is to develop a sentiment analysis tool capable of
 - **step 1:**  pip install -r req2.txt
 - **step 2:** python .\Flaskapp.py
 
+### Submitted by
+
+- **Arihant Jain-20104017**
+- **Davinder Singh-20104027**
+
 
 
